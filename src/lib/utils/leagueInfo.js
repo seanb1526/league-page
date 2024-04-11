@@ -27,7 +27,7 @@ export const managers = [
   {
    // "roster": 1,
     "managerID" : "608686577211764736",
-    "name": "Sean",
+    "name": "Sean1",
     //"location": "---",
     "bio": "Bio",
     "photo": "/managers/seanPic.png",
