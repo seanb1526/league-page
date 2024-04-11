@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
   {
    // "roster": 1,
-    "managerID" : "",
+    "managerID" : "608686577211764736",
     "name": "",
     //"location": "---",
     "bio": "Bio",
