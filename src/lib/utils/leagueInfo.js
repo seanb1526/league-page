@@ -43,8 +43,8 @@ export const managers = [
   
   {
     // "roster": 2,
-    "managerID" : "613805733846261760",
-    "name": "Jack",
+    "managerID" : "",
+    "name": "",
     "location": "---",
     "bio": "---",
     "photo": "/managers/name.jpg",
@@ -110,8 +110,8 @@ export const managers = [
 
   {
     // "roster": 6,
-    "managerID" : "997675036204998656",
-    "name": "Dault",
+    "managerID" : "",
+    "name": "",
     "location": "---",
     "bio": "---",
     "photo": "/managers/name.jpg",
@@ -144,8 +144,8 @@ export const managers = [
 
   {
     // "roster": 8,
-    "managerID" : "997734541819252736",
-    "name": "Mike",
+    "managerID" : "",
+    "name": "",
     "location": "---",
     "bio": "---",
     "photo": "/managers/name.jpg",
