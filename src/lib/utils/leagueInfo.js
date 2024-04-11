@@ -24,54 +24,173 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
   {
-    "roster": 1,
+   // "roster": 1,
     "managerID" : "608686577211764736",
     "name": "Sean",
     "location": "---",
     "bio": "---",
     "photo": "/managers/name.jpg",
     "fantasyStart": 2023,
-    "favoriteTeam": "---",
+    //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
       name: "Rival",
-      link: 6,
+      link: null,
       image: "/managers/rival.jpg",
     },
-  }
+  },
   
+  {
+    // "roster": 2,
+    "managerID" : "613805733846261760",
+    "name": "Jack",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    //"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
+  {
+    // "roster": 3,
+    "managerID" : "785976730140770304",
+    "name": "Eli",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    //"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
 
-    // {
-    //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Your Name",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Brooklyn", // (optional)
-    //   "bio": "Lorem ipsum...",
-    //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-    //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-    //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-    //   "rival": {
-    //     name: "Rival", // Can be anything (usually your rival's name)
-    //     link: 6, // manager array number within this array, or null to link back to all managers page
-    //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-    //   },
+  {
+    // "roster": 4,
+    "managerID" : "809873222345543680",
+    "name": "Connor",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    //"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
 
-    // {
-    //   "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Your Name",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Brooklyn", // (optional)
-    //   "bio": "Lorem ipsum...",
-    //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-    //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-    //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-    //   "rival": {
-    //     name: "Rival", // Can be anything (usually your rival's name)
-    //     link: 6, // manager array number within this array, or null to link back to all managers page
-    //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-    //   }
+  {
+    // "roster": 5,
+    "managerID" : "966517146626920448",
+    "name": "Joe",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    //"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
+
+  {
+    // "roster": 6,
+    "managerID" : "997675036204998656",
+    "name": "Dault",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    ///"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
+
+  {
+    // "roster": 7,
+    "managerID" : "997707841148440576",
+    "name": "Matt",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    ///"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
+
+  {
+    // "roster": 8,
+    "managerID" : "997734541819252736",
+    "name": "Mike",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    ///"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
+
+  {
+    // "roster": 9,
+    "managerID" : "997757603901943808",
+    "name": "Drew",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2023,
+    ///"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  },
+
+  //{
+    // "roster": 10,
+    // "managerID" : "809873222345543680",
+    // "name": "Connor",
+    // "location": "---",
+    // "bio": "---",
+    // "photo": "/managers/name.jpg",
+    // "fantasyStart": 2023,
+    // "favoriteTeam": "---",
+    // "mode": "Win Now",
+    // "rival": {
+    //  name: "Rival",
+    //  link: null,
+    //  image: "/managers/rival.jpg",
+    //},
+  //}
 
   ]
   
