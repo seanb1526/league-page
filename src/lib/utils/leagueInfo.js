@@ -7,10 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Dynasty League Website. ENTER MORE HERE ------ </p>
-  <p>This is another paragraph</p>
-  <p>And another one for good measure</p>
-
+  <p>Welcome to the Dynasty League Website!</p>
+  <p>Leage established in 2023.</p>
+  <p>League rules will be in "League Info -> Constitution" tab. Currently there's just a bunch of random shit in there youc an ignore it for now.</p>
+  <p>Rivals will be added soon. You plays rivals twice every season, its just an added feature for fun.</p>
+  <h3>Draft Date TBD</h3>
 `;
 
 /*   STEP 3   */
