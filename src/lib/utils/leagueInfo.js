@@ -35,9 +35,9 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
-      image: "/managers/rival.jpg",
+      name: "Eli",
+      link: 2,
+      image: "/managers/eliPic.png",
     },
   },
   
@@ -52,8 +52,8 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
+      name: "Michael",
+      link: 7,
       image: "/managers/rival.jpg",
     },
   },
@@ -68,9 +68,9 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
-      image: "/managers/rival.jpg",
+      name: "Sean",
+      link: 0,
+      image: "/managers/seanPic.png",
     },
   },
 
@@ -85,7 +85,7 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
+      name: "Riley",
       link: null,
       image: "/managers/rival.jpg",
     },
@@ -102,8 +102,8 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
+      name: "Drew",
+      link: 8,
       image: "/managers/rival.jpg",
     },
   },
@@ -119,8 +119,8 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
+      name: "Matt",
+      link: 6,
       image: "/managers/rival.jpg",
     },
   },
@@ -136,8 +136,8 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
+      name: "Daulton",
+      link: 5,
       image: "/managers/rival.jpg",
     },
   },
@@ -153,8 +153,8 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
+      name: "Jack",
+      link: 1,
       image: "/managers/rival.jpg",
     },
   },
@@ -170,8 +170,8 @@ export const managers = [
     //"favoriteTeam": "---",
     "mode": "Win Now",
     "rival": {
-      name: "Rival",
-      link: null,
+      name: "Joe",
+      link: 4,
       image: "/managers/rival.jpg",
     },
   },
