@@ -176,22 +176,22 @@ export const managers = [
     },
   },
 
-  //{
+  {
     // "roster": 10,
-    // "managerID" : "809873222345543680",
-    // "name": "Connor",
-    // "location": "---",
-    // "bio": "---",
-    // "photo": "/managers/name.jpg",
-    // "fantasyStart": 2023,
-    // "favoriteTeam": "---",
-    // "mode": "Win Now",
-    // "rival": {
-    //  name: "Rival",
-    //  link: null,
-    //  image: "/managers/rival.jpg",
-    //},
-  //}
+    "managerID" : "997757603901943808",
+    "name": "Riley",
+    "location": "---",
+    "bio": "---",
+    "photo": "/managers/name.jpg",
+    "fantasyStart": 2024,
+    ///"favoriteTeam": "---",
+    "mode": "Win Now",
+    "rival": {
+      name: "Rival",
+      link: null,
+      image: "/managers/rival.jpg",
+    },
+  }
 
   ]
   
